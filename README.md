@@ -1,4 +1,5 @@
 # nus-workshop-demos
+Projects used in my one day React Basics tutorial for NUS students. 
 
 #### Demo1 is a simple application that uses common components in React Native to make a money calculator app.
 
